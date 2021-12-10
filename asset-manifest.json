@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/flip-container/static/css/main.881cc54d.chunk.css",
-    "main.js": "/flip-container/static/js/main.93df28fc.chunk.js",
-    "main.js.map": "/flip-container/static/js/main.93df28fc.chunk.js.map",
+    "main.css": "/flip-container/static/css/main.66136e16.chunk.css",
+    "main.js": "/flip-container/static/js/main.ff31f381.chunk.js",
+    "main.js.map": "/flip-container/static/js/main.ff31f381.chunk.js.map",
     "runtime-main.js": "/flip-container/static/js/runtime-main.fa563b11.js",
     "runtime-main.js.map": "/flip-container/static/js/runtime-main.fa563b11.js.map",
     "static/js/2.ac3b5017.chunk.js": "/flip-container/static/js/2.ac3b5017.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.321620ce.chunk.js": "/flip-container/static/js/3.321620ce.chunk.js",
     "static/js/3.321620ce.chunk.js.map": "/flip-container/static/js/3.321620ce.chunk.js.map",
     "index.html": "/flip-container/index.html",
-    "static/css/main.881cc54d.chunk.css.map": "/flip-container/static/css/main.881cc54d.chunk.css.map",
+    "static/css/main.66136e16.chunk.css.map": "/flip-container/static/css/main.66136e16.chunk.css.map",
     "static/js/2.ac3b5017.chunk.js.LICENSE.txt": "/flip-container/static/js/2.ac3b5017.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/flip-container/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fa563b11.js",
     "static/js/2.ac3b5017.chunk.js",
-    "static/css/main.881cc54d.chunk.css",
-    "static/js/main.93df28fc.chunk.js"
+    "static/css/main.66136e16.chunk.css",
+    "static/js/main.ff31f381.chunk.js"
   ]
 }
