@@ -7,6 +7,10 @@ html {
   /* background-color: red; */
 }
 
+* {
+  font-family: "Nunito Sans", sans-serif;
+}
+
 iframe {
   width: 100vw;
   height: 100vh;

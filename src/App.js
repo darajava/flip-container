@@ -6,12 +6,23 @@ function App() {
   const iframe = useRef();
 
   useEffect(() => {
-    setInterval(() => {
+    setInterval(async () => {
       const hours = new Date().getHours();
-      if (hours === 1) {
-        iframe.current.contentWindow.location.reload();
+      if (hours === 24) {
+        try {
+          await fetch(
+            `https://darajava.github.io/flip/index.html?${window.location.search.substr(
+              1
+            )}`
+          );
+
+          if (window.navigator.onLine) {
+            iframe.current.contentWindow.location.reload();
+          }
+        } catch {}
       }
-    }, 50 * 60 * 1000); // every 50 minutes
+    }, 5000);
+    // }, 50 * 60 * 1000); // every 50 minutes
   }, []);
   return (
     <div className="App">
