@@ -1,23 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import { useRef, useEffect } from "react";
 
 function App() {
+  const iframe = useRef();
+
+  useEffect(() => {
+    setInterval(() => {
+      const hours = new Date().getHours();
+      if (hours === 1) {
+        iframe.current.contentWindow.location.reload();
+      }
+    }, 50 * 60 * 1000); // every 50 minutes
+  }, []);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <iframe
+        ref={iframe}
+        src={`https://darajava.github.io/flip/index.html?${window.location.search.substr(
+          1
+        )}`}
+        title={"flipper"}
+      ></iframe>
     </div>
   );
 }
