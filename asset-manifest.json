@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/flip-container/static/css/main.7158db69.chunk.css",
-    "main.js": "/flip-container/static/js/main.e2a77723.chunk.js",
-    "main.js.map": "/flip-container/static/js/main.e2a77723.chunk.js.map",
-    "runtime-main.js": "/flip-container/static/js/runtime-main.797884ff.js",
-    "runtime-main.js.map": "/flip-container/static/js/runtime-main.797884ff.js.map",
-    "static/js/2.bd62430e.chunk.js": "/flip-container/static/js/2.bd62430e.chunk.js",
-    "static/js/2.bd62430e.chunk.js.map": "/flip-container/static/js/2.bd62430e.chunk.js.map",
-    "static/js/3.e554b259.chunk.js": "/flip-container/static/js/3.e554b259.chunk.js",
-    "static/js/3.e554b259.chunk.js.map": "/flip-container/static/js/3.e554b259.chunk.js.map",
-    "index.html": "/flip-container/index.html",
-    "static/css/main.7158db69.chunk.css.map": "/flip-container/static/css/main.7158db69.chunk.css.map",
-    "static/js/2.bd62430e.chunk.js.LICENSE.txt": "/flip-container/static/js/2.bd62430e.chunk.js.LICENSE.txt"
+    "main.css": "/flip-container/index.htmlstatic/css/main.6dea0f05.chunk.css",
+    "main.js": "/flip-container/index.htmlstatic/js/main.ad3c3d7d.chunk.js",
+    "main.js.map": "/flip-container/index.htmlstatic/js/main.ad3c3d7d.chunk.js.map",
+    "runtime-main.js": "/flip-container/index.htmlstatic/js/runtime-main.7833a994.js",
+    "runtime-main.js.map": "/flip-container/index.htmlstatic/js/runtime-main.7833a994.js.map",
+    "static/js/2.ff86aa1d.chunk.js": "/flip-container/index.htmlstatic/js/2.ff86aa1d.chunk.js",
+    "static/js/2.ff86aa1d.chunk.js.map": "/flip-container/index.htmlstatic/js/2.ff86aa1d.chunk.js.map",
+    "static/js/3.14a872ad.chunk.js": "/flip-container/index.htmlstatic/js/3.14a872ad.chunk.js",
+    "static/js/3.14a872ad.chunk.js.map": "/flip-container/index.htmlstatic/js/3.14a872ad.chunk.js.map",
+    "index.html": "/flip-container/index.htmlindex.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/flip-container/index.htmlstatic/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ff86aa1d.chunk.js.LICENSE.txt": "/flip-container/index.htmlstatic/js/2.ff86aa1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.797884ff.js",
-    "static/js/2.bd62430e.chunk.js",
-    "static/css/main.7158db69.chunk.css",
-    "static/js/main.e2a77723.chunk.js"
+    "static/js/runtime-main.7833a994.js",
+    "static/js/2.ff86aa1d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ad3c3d7d.chunk.js"
   ]
 }
