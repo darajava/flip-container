@@ -2,7 +2,7 @@
   "name": "flip",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://darajava.github.io/flip-container",
+  "homepage": "https://darajava.github.io/flip-container/index.html?mostSignificant",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
